@@ -30,4 +30,4 @@ COOCO enables novel investigations into:
 
 ---
 
-> 📦 **Code & Data**: [GitHub Repository](https://github.com/cs-nlp-uu/scenereg)
+> 📦 **Data**: [GitHub Repository](https://github.com/cs-nlp-uu/scenereg)
