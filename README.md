@@ -30,4 +30,4 @@ COOCO enables novel investigations into:
 
 ---
 
-> 📦 **Data**: [GitHub Repository](https://github.com/cs-nlp-uu/scenereg)
+> 🤗 **Data**: [Hugging Face Dataset](https://huggingface.co/datasets/fmerlo/COOCO)
