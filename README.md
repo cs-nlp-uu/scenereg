@@ -1,7 +1,9 @@
 # COOCO: Common Objects Out-of-Context
 
 **Authors:** Filippo Merlo\*, Ece Takmaz, Wenkai Chen, Albert Gatt
+
 \*Corresponding author: [f.merlo.research@gmail.com](mailto:f.merlo.research@gmail.com)
+
 **Affiliations:** Utrecht University, University of Trento
 
 ---
